@@ -1,0 +1,14 @@
+../Core/Src/main.c:70:6:debug_print	1
+../Core/Src/main.c:76:6:all_motors_stop	1
+../Core/Src/main.c:83:6:motorA_forward	1
+../Core/Src/main.c:90:6:motorB_forward	1
+../Core/Src/main.c:97:6:motorC_forward	1
+../Core/Src/main.c:104:6:motorD_forward	1
+../Core/Src/main.c:112:6:apply_speed	1
+../Core/Src/main.c:117:6:HAL_UART_RxCpltCallback	14
+../Core/Src/main.c:167:5:main	1
+../Core/Src/main.c:218:6:SystemClock_Config	3
+../Core/Src/main.c:258:13:MX_TIM1_Init	7
+../Core/Src/main.c:333:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:366:13:MX_GPIO_Init	1
+../Core/Src/main.c:414:6:Error_Handler	1
