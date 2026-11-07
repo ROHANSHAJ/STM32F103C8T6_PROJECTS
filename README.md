@@ -4,11 +4,11 @@
 [![Core: ARM Cortex-M3](https://img.shields.io/badge/Core-ARM%20Cortex--M3%20%40%2072MHz-0091BD.svg?logo=arm&logoColor=white)](https://developer.arm.com/Processors/Cortex-M3)
 [![RTOS: FreeRTOS](https://img.shields.io/badge/RTOS-FreeRTOS%20v10-brightgreen.svg?logo=freertos&logoColor=white)](https://www.freertos.org/)
 [![Toolchain: STM32CubeIDE](https://img.shields.io/badge/Toolchain-STM32CubeIDE%20%7C%20HAL-03234B.svg)](https://www.st.com/en/development-tools/stm32cubeide.html)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A comprehensive repository of bare-metal and real-time operating system (**FreeRTOS**) embedded applications developed for the **STM32F103C8T6 (ARM Cortex-M3 "Blue Pill")** microcontroller.
+A production-grade collection of bare-metal and real-time operating system (**FreeRTOS**) embedded applications engineered for the **STM32F103C8T6 (ARM Cortex-M3 "Blue Pill")** microcontroller.
 
-The flagship implementation in this repository is an industrial-grade **RTOS-Driven Automated Vending Machine System** featuring 8 synchronized concurrent tasks, event-driven state machines, drop-verification feedback, and complete hardware peripheral integration.
+The flagship implementation in this suite is an industrial-grade **RTOS-Driven Automated Vending Machine System** featuring 8 synchronized concurrent tasks, event-driven state machines, ultrasonic drop-verification feedback, and complete hardware peripheral integration.
 
 ---
 
